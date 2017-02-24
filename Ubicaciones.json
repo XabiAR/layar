@@ -1,0 +1,104 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0783075, 
+          "lon": -96.7191099
+        }
+      }, 
+      "icon": {
+        "url": ""
+      },
+      "id": 1, 
+      "text": {
+        "title": "Plaza Mazari"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0719562,
+          "lon": -96.7113694
+        }
+      }, 
+      "icon": {
+        "url": ""
+      },
+      "id": 2, 
+      "text": {
+        "title": "Poing Poing"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat":  17.0660765,
+          "lon": -96.7114358
+        }
+      }, 
+      "icon": {
+        "url": ""
+      },
+      "id": 3, 
+      "text": {
+        "title": "Polideportivo Venustiano Carranza"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0690137,
+          "lon": -96.7195964
+        }
+      }, 
+      "icon": {
+        "url": ""
+      },
+      "id": 4, 
+      "text": {
+        "title": "Parque Juarez el Llano"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0797324,
+          "lon": -96.7458335
+        }
+      }, 
+      "icon": {
+        "url": ""
+      },
+      "id": 5, 
+      "text": {
+        "title": "Estadio Tecnologico"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0763128,
+          "lon": -96.7587010
+        }
+      }, 
+      "icon": {
+        "url": ""
+      },
+      "id": 6, 
+      "text": {
+        "title": "Cinemex Plaza Bella"
+      }
+    }
+  
+  ], 
+  "layer": "tecnologiasax9e"
+}
