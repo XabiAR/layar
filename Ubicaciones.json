@@ -2,7 +2,6 @@
   "errorCode": 0, 
   "errorString": "ok", 
   "hotspots": [
-    
     {
       "anchor": {
         "geolocation": {
@@ -18,7 +17,6 @@
         "title": "Plaza Mazari"
       }
     },
-    
     {
       "anchor": {
         "geolocation": {
@@ -34,7 +32,6 @@
         "title": "Poing Poing"
       }
     },
-    
     {
       "anchor": {
         "geolocation": {
@@ -50,7 +47,6 @@
         "title": "Polideportivo Venustiano Carranza"
       }
     },
-    
     {
       "anchor": {
         "geolocation": {
@@ -66,7 +62,6 @@
         "title": "Parque Juarez el Llano"
       }
     },
-    
     {
       "anchor": {
         "geolocation": {
@@ -82,7 +77,6 @@
         "title": "Estadio Tecnologico"
       }
     },
-    
     {
       "anchor": {
         "geolocation": {
